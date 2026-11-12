@@ -1,5 +1,5 @@
 """
-GraphCodeBERT Embedding Service for ELARA
+GraphCodeBERT Embedding Service for ELARA PROJECT
 -------------------------------------------
 Loads microsoft/graphcodebert-base locally and exposes a REST API
 that converts code (or text) into a 768-dimensional embedding vector.
